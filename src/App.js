@@ -25,9 +25,13 @@ function App() {
           <div className='emoji-container'>
             <div className='emoji-item' onClick={() => { setEmoji('🏆') }}>🏆</div>
             <div className='emoji-item' onClick={() => { setEmoji('🎯') }}>🎯</div>
-            <div className='emoji-item' onClick={() => { setEmoji('👍') }}>👍</div>
+            <div className='emoji-item' onClick={() => { setEmoji('🤩') }}>🤩</div>
             <div className='emoji-item' onClick={() => { setEmoji('😇') }}>😇</div>
-            <div className='emoji-item' onClick={() => { setEmoji('🍕') }}>🍕</div>
+            <div className='emoji-item' onClick={() => { setEmoji('🤑') }}>🤑</div>
+            <div className='emoji-item' onClick={() => { setEmoji('😍') }}>😍</div>
+            <div className='emoji-item' onClick={() => { setEmoji('🥱') }}>🥱</div>
+            <div className='emoji-item' onClick={() => { setEmoji('😻') }}>😻</div>
+            <div className='emoji-item' onClick={() => { setEmoji('😾') }}>😾</div>
           </div>
         </div>
 
