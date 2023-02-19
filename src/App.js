@@ -28,7 +28,6 @@ function App() {
             <div className='emoji-item' onClick={() => { setEmoji('😍') }}>😍</div>
             <div className='emoji-item' onClick={() => { setEmoji('🥱') }}>🥱</div>
             <div className='emoji-item' onClick={() => { setEmoji('😻') }}>😻</div>
-            <div className='emoji-item' onClick={() => { setEmoji('😾') }}>😾</div>
           </div>
         </div>
 
